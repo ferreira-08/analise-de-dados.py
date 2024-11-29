@@ -6,7 +6,7 @@
 Instale o Python
 Vscode
 
-Bibliotecas utilizdas
+Bibliotecas utilizadas
   -Pandas
   -Plotly
   -Numpy
